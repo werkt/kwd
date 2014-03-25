@@ -1,0 +1,9 @@
+# autotools products
+Makefile.in
+aclocal.m4
+configure
+depcomp
+install-sh
+missing
+autom4te.cache
+config.h.in
